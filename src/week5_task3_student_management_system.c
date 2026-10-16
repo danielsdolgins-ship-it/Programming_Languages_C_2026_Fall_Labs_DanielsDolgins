@@ -1,5 +1,5 @@
 // week5_task3_student_management_system.c
-// Name: ________  Surname: ________  Student ID: ________
+// Name: Daniels  Surname: Dolgins  Student ID: 251RDC081
 //
 // Task 3: Mini-project – Student management system with file persistence
 // Week 5 – Files & Modular Programming
