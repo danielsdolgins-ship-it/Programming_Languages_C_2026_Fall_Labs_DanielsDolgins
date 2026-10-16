@@ -4,7 +4,6 @@
 // Task 2: Save and load structured records from a file
 // Week 5 – Files & Modular Programming
 // Build: make lab5   Run: ./bin/week5_task2_struct_save_load
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

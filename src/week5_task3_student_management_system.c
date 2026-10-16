@@ -6,7 +6,6 @@
 // TODO: Implement the functions to load, save, add, and list students.
 //
 // Build: make lab5   Run: ./bin/week5_task3_student_management_system
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
